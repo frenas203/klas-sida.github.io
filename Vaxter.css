@@ -9,7 +9,7 @@ body{
 .topMenu{
     display: flex;
     flex-direction: row;
-    width: auto;
+    width: 1650px;
     padding:14px;
     margin: auto;
     border-style: hidden;
