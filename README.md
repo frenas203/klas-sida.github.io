@@ -1,2 +1,2 @@
 # klas-sida.github.io
-my project site
+my project site for learning HTML and CSS 
