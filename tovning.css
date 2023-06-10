@@ -1,0 +1,13 @@
+body{
+    background-color: #937E7F;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.comming-soon{
+    font-family: sans-serif;
+    font-weight: bold;
+}
